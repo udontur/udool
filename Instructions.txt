@@ -1,0 +1,4 @@
+Location: C:\Program Files (x86)\udontur\udool
+
+.bat location: C:\Program Files (x86)\udontur\udool
+.exe location: C:\Program Files (x86)\udontur\udool\app
