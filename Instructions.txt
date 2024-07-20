@@ -7,3 +7,5 @@ Compile C++ standalone
 g++ -o <PROGRAM-NAME> <PROGRAM-NAME>.cpp -static -static-libgcc -static-libstdc++
 
 You need to codesign  your .msi file for windows to trust it
+
+https://stackoverflow.com/questions/252226/signing-a-windows-exe-file
