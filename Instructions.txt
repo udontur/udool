@@ -2,3 +2,8 @@ Location: C:\Program Files (x86)\udontur\udool
 
 .bat location: C:\Program Files (x86)\udontur\udool
 .exe location: C:\Program Files (x86)\udontur\udool\app
+
+Compile C++ standalone
+g++ -o <PROGRAM-NAME> <PROGRAM-NAME>.cpp -static -static-libgcc -static-libstdc++
+
+You need to codesign  your .msi file for windows to trust it
